@@ -1,0 +1,8 @@
+Best model:  XGBoost
+Test F1:     0.8000
+CV F1:       0.3400 ± 0.3072
+RF F1:       0.0000
+XGB F1:      0.8000
+Features:    60
+Train rows:  476
+Test rows:   119
